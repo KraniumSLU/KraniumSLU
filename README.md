@@ -1,4 +1,4 @@
-<h1 align="center">Kranium SLU</h1>
+<h1 align="center">Kranium</h1>
 
 <h3 align="center">
 Automating a Better World  
